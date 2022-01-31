@@ -1,0 +1,54 @@
+.form {
+    background-color: grey;
+    padding: 1.0em;
+    border-radius: 1.0em;
+}
+
+.container {
+    margin: 2.0em 0;
+}
+
+.title {
+    text-align: center;
+}
+
+.btn_logout  {
+    margin-top: 2.0em;
+}
+
+.message {
+    color: rgb(247, 214, 217);
+    
+}
+
+.div_messages {
+    background-color: rgb(131, 52, 58);
+    padding: 1.0em;
+    border-radius: 1.0em;
+    margin: 1.0em 0em;
+}
+
+.title_register {
+    color: rgb(5, 122, 254);
+}
+
+.title_login {
+    color: rgb(40, 166, 68);
+}
+
+.div_send_message {
+    background-color: gray;
+    padding: 2.0em;
+}
+
+.div_send_message > * {
+    margin-bottom: 1.0em;
+}
+
+.menu {
+    background-color: gray;
+}
+
+.menu > *{
+    align-self: center;
+}
